@@ -24,3 +24,11 @@ The project uses vector to store male and female candidates separately for match
 2D Vector (Graph):
 
 The 2D vector (graph) is used to represent connections and costs between different nodes (service providers). The graph is used in the Dijkstra algorithm to find the most economical combination of service providers for Budget-Friendly booking.
+
+
+https://github.com/anany057/Service_Selector_Dijkstra/assets/112336313/c9c5af9a-1379-4a9f-9132-11dbd851ea8a
+
+
+https://github.com/anany057/Service_Selector_Dijkstra/assets/112336313/b5addb55-d069-4c0c-b147-02d1cd194929
+
+
